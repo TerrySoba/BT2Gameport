@@ -1,0 +1,4 @@
+[submodule "firmware/joypad-os"]
+	path = firmware/joypad-os
+	url = https://github.com/TerrySoba/joypad-os.git
+	branch = bt2gameport
